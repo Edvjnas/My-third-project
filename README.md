@@ -10,4 +10,4 @@
 
 ## Ištrynimas  
  
-Norint ištrinti programą, spauskite ant to paties setup1.msi failo ir pasirinkite opciją ištrinti.
+Norint ištrinti programą, spauskite ant to paties `setup1.msi` failo ir pasirinkite opciją ištrinti.
