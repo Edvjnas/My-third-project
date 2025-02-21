@@ -1,1 +1,1 @@
-# Tre-ias-laboratorinis-darbas
+# Trečias-laboratorinis-darbas
